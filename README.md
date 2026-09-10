@@ -153,10 +153,10 @@ Although the repository is public for viewing and educational reference, no part
 
 Want to collaborate or discuss design and motion ideas?
 
-📧 Email: baliyanlucky85@gmail.com
+📧 Email: dhruvrathore49@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/lucky-baliyan-67b487299/
+💼 LinkedIn: linkedin.com/in/dhruv-rathore-28008429a/
 
-🐙 GitHub: https://github.com/Dhruv Rathore
+🐙 GitHub: https://github.com/Dhruv-rathod01
 
 
