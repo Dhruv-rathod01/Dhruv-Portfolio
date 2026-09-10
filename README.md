@@ -116,7 +116,7 @@ DR_Portfolio/
 | **Routing** | React Router |
 | **Build Tool** | Vite |
 | **Version Control** | Git & GitHub |
-
+EmailJS configured
 ---
 
 ## 💡 Design Philosophy
