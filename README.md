@@ -155,8 +155,8 @@ Want to collaborate or discuss design and motion ideas?
 
 📧 Email: dhruvrathore49@gmail.com
 
-💼 LinkedIn: linkedin.com/in/dhruv-rathore-28008429a/
+💼 LinkedIn: https://www.linkedin.com/in/dhruv-rathore-28008429a/
 
-🐙 GitHub: https://github.com/Dhruv-rathod01
+🐙 GitHub: https://github.com/Dhruv-rathod01git 
 
 
